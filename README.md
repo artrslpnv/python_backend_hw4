@@ -1,2 +1,2 @@
 # python_backend_hw4
-hw4 python backend
+Artur Slepnev hw4 python backend ( to launch correctly change path variable in Makefile)
